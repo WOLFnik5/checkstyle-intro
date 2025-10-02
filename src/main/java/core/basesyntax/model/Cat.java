@@ -11,7 +11,8 @@ public class Cat {
                 + "age="
                 + age
                 + ", name='"
-                + name + '\''
+                + name
+                + '\''
                 + ", ownerName='"
                 + ownerName
                 + '\''
